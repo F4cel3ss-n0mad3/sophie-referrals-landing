@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "🚀 Sophie Referrals Tours Landing Page - Deployment Script"
+echo "=================================================="
+
+echo "📋 Pasos para crear el repositorio:"
+echo ""
+echo "1. Ve a https://github.com/new"
+echo "2. Nombre del repositorio: sophie-referrals-landing"
+echo "3. Descripción: Landing page for Sophie Referrals Tours - Sistema de comisiones para agencias de viajes"
+echo "4. Marca como Público"
+echo "5. NO inicialices con README (ya tenemos uno)"
+echo "6. Haz clic en 'Create repository'"
+echo ""
+echo "7. Una vez creado, ejecuta estos comandos:"
+echo ""
+echo "git remote set-url origin https://github.com/mosaikolabs/sophie-referrals-landing.git"
+echo "git push -u origin main"
+echo ""
+echo "✅ ¡Listo! Tu landing page estará en GitHub."
+echo ""
+echo "🌐 URL del repositorio: https://github.com/mosaikolabs/sophie-referrals-landing"
+echo "📱 URL de la landing: https://mosaikolabs.github.io/sophie-referrals-landing/ (después de configurar GitHub Pages)" 
